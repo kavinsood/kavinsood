@@ -1,4 +1,3 @@
-![](Tranquility.png)
 
 <samp>
   Check out my website -> <a href="https://kavinsood.com">kavinsood.com</a>, send an email <a href="mailto:hi@kavinsood.com">hi@kavinsood.com</a>
